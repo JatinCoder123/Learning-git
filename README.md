@@ -1,3 +1,3 @@
 # Learning-git
 I'm learning git 
-From - Apna College
+From - Apna College Channel
